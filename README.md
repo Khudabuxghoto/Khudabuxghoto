@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khudabuxghoto
 - 👀 I’m interested in  front end web development
 - 🌱 I’m currently learning website using html5 css js boostrap
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... 
 
 <!---
 Khudabuxghoto/Khudabuxghoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
